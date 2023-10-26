@@ -1,0 +1,8 @@
+{
+    "avr units solds min": "10000",
+    "price min": 15,
+    "rank max": 2000,
+    "rank min": 100,
+    "review max": 2000,
+    "review min": 5
+}
